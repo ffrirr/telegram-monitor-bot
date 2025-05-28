@@ -67,11 +67,3 @@ python3 <file_name>.py
 * Anda bisa memodifikasi `log pattern` atau menambahkan level lain seperti `info`, `critical`, dll
 
 ---
-
-### 📄 Lisensi
-
-MIT License © \[Your Name]
-
----
-
-Jika kamu ingin saya sekalian buatkan file `requirements.txt` atau struktur folder repo-nya, tinggal beri tahu.
